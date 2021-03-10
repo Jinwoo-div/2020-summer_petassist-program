@@ -27,7 +27,8 @@
   > 4. 병원 찾기
   > * 가입시 등록한 거주지 기준으로 해당 지역에 있는 병원 명단 출력
   > 
-  ><img src="https://user-images.githubusercontent.com/66550739/110643536-8993c480-81f7-11eb-9d68-dde98aad30a8.png" width="400" height="300"></img>
+  ><img src="https://user-images.githubusercontent.com/66550739/110646832-a2ea4000-81fa-11eb-867d-17349c266fde.png" width="400" height="300"></img>
+
   >> 화면 상단에 내 거주지 출력
   >> 해당 거주지 인근 병원정보 출력
   >> 이름, 주소, 전화번호, 네이버 지도에서 파싱
