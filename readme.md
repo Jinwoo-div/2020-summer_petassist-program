@@ -47,11 +47,7 @@
 
 
 
-<img src="https://user-images.githubusercontent.com/66550739/110647416-27d55980-81fb-11eb-98c4-3b8a52cb517e.png" width="280" height="220"></img>
-
-<img src="https://user-images.githubusercontent.com/66550739/110647501-39b6fc80-81fb-11eb-97ed-11e1fe22eb05.png" width="200" height="180"></img>
-
-<img src="https://user-images.githubusercontent.com/66550739/110647601-4cc9cc80-81fb-11eb-8121-ca1d0e7444f8.png" width="100" height="130"></img> (적색 하이라이트 부분이 사용자 편집 부분)
+<img src="https://user-images.githubusercontent.com/66550739/110647416-27d55980-81fb-11eb-98c4-3b8a52cb517e.png" width="280" height="220"></img><img src="https://user-images.githubusercontent.com/66550739/110647501-39b6fc80-81fb-11eb-97ed-11e1fe22eb05.png" width="200" height="180"></img><img src="https://user-images.githubusercontent.com/66550739/110647601-4cc9cc80-81fb-11eb-8121-ca1d0e7444f8.png" width="100" height="130"></img> (적색 하이라이트 부분이 사용자 편집 부분)
 
 
 
