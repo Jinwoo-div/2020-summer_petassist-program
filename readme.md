@@ -1,6 +1,7 @@
 # 2020 여름방학 반려동물보조프로그램 
   ### 기능 설명
-<img src="https://user-images.githubusercontent.com/66550739/110618526-2ba4b400-81da-11eb-88ae-c3f70baa21c1.png" width="510" height="400"></img>
+<img src="https://user-images.githubusercontent.com/66550739/110647250-05434080-81fb-11eb-9ef8-3005d40faf40.png" width="510" height="400"></img>
+
 + 사용기술
   * pyqt5 사용하여 제작
   * Designer 프로그램 사용하여 레이아웃 제작
@@ -46,9 +47,12 @@
 
 
 
-<img src="https://user-images.githubusercontent.com/66550739/110636891-25213700-81f0-11eb-97bc-9134aec14685.png" width="280" height="220"></img>
-<img src="https://user-images.githubusercontent.com/66550739/110637706-0cfde780-81f1-11eb-8056-406932a84f66.png" width="200" height="180"></img>
-<img src="https://user-images.githubusercontent.com/66550739/110640355-163c8380-81f4-11eb-961e-bfc113a8d3bf.png" width="100" height="130"></img> (적색 하이라이트 부분이 사용자 편집 부분)
+<img src="https://user-images.githubusercontent.com/66550739/110647416-27d55980-81fb-11eb-98c4-3b8a52cb517e.png" width="280" height="220"></img>
+
+<img src="https://user-images.githubusercontent.com/66550739/110647501-39b6fc80-81fb-11eb-97ed-11e1fe22eb05.png" width="200" height="180"></img>
+
+<img src="https://user-images.githubusercontent.com/66550739/110647601-4cc9cc80-81fb-11eb-8121-ca1d0e7444f8.png" width="100" height="130"></img> (적색 하이라이트 부분이 사용자 편집 부분)
+
 
 
    3-1. 일정 알림 위젯
