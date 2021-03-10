@@ -20,7 +20,7 @@
   > 3. 친구찾기
   > * 가입시 등록한 거주지 기준으로 같은 지역 거주하는 회원명단 출력
   > 
-  > <img src="https://user-images.githubusercontent.com/66550739/110642712-9ebc2380-81f6-11eb-806b-0a1ae9521cee.png" width="400" height="300"></img>
+  > <img src="https://user-images.githubusercontent.com/66550739/110648108-c5308d80-81fb-11eb-9eb2-7c66c0e69765.png" width="400" height="300"></img>
   >> 화면 상단에 내 거주지 출력
   >> 목록에 거주지 일치하는 다른 회원들 프로필, ID, 이메일, 거주지 표시
   >> 아래 숫자버튼으로 페이지 조작
